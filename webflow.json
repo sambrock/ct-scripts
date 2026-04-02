@@ -1,0 +1,18 @@
+{
+  "siteId": "69b01429bc20191cae3f6af9",
+  "telemetry": {
+    "global": {
+      "allowTelemetry": true,
+      "lastPrompted": 1775142161518,
+      "version": "1.13.0"
+    }
+  },
+  "library": {
+    "components": [
+      "**/*.webflow.@(js|jsx|mjs|ts|tsx)"
+    ],
+    "id": "sam-components-test",
+    "name": "sam-components-test",
+    "description": ""
+  }
+}
